@@ -13,6 +13,7 @@ Link for the jupyter notebook [Time Series Analysis](https://github.com/firdanra
 - Import and reading data 
 - Data Preprocessing
 - Time Series Analysis
+- Stationarity test
 - Forecasting with SARIMA
 - Possible extensions to improve the model
 - Conclusion
